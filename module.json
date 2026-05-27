@@ -2,8 +2,5 @@
   "id": "monochrome-source",
   "name": "Monochrome",
   "version": "1.0.0",
-  "author": "Abishek",
-  "description": "Custom music module for 8SPINE",
-  "entry": "https://zgjbydzsy9-ux.github.io/monochrome-8spine/monochrome.js",
-  "permissions": ["network"]
+  "entry": "https://monochrome.tf/monochrome.js"
 }
